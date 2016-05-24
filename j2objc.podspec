@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'j2objc'
+  s.name             = 'J2ObjC'
   s.version          = '0.1.0'
   s.summary          = 'License of j2objc to the acknowledements section of the app if you were to follow the instructions on the CocoaPods wiki'
 
