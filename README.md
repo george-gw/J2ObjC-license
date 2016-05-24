@@ -10,7 +10,7 @@ J2ObjC is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'J2ObjC', :git => 'https://github.com/george-gw/j2objc.git'
+pod 'J2ObjC', :git => 'https://github.com/george-gw/J2ObjC-license.git'
 ```
 
 ## License

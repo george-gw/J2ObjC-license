@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   License files for j2objc to the acknowledements section of the app if you were to follow the instructions on the CocoaPods wiki
                        DESC
 
-  s.homepage         = 'https://github.com/george-gw/j2objc'
+  s.homepage         = 'https://github.com/george-gw/J2ObjC-license'
   s.author           = { "George A" => "george.guidewall@gmail.com" }
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license = { :type => "Apache License, Version 2.0", :file => "LICENSE" }
-  s.source           = { :git => 'https://github.com/george-gw/j2objc.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/george-gw/J2ObjC-license.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '7.0'
