@@ -1,8 +1,5 @@
 # J2ObjC
 
-[![Version](https://img.shields.io/cocoapods/v/j2objc.svg?style=flat)](http://cocoapods.org/pods/j2objc)
-[![Platform](https://img.shields.io/cocoapods/p/j2objc.svg?style=flat)](http://cocoapods.org/pods/j2objc)
-
 License of [J2ObjC](https://github.com/google/j2objc) to the acknowledements section of the app if you were to follow the instructions on the [CocoaPods wiki](https://github.com/CocoaPods/CocoaPods/wiki/Acknowledgements)
 
 ## Requirements
